@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Anek+Telugu&display=swap");
+
+body {
+  font-family: "Anek Telugu", sans-serif;
+}
+
+#konten {
+  height: 100vh;
+  padding-top: 200px;
+}
+
+.luas {
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  width: 75%;
+  margin: auto;
+}
+
+#luasWilayah {
+  font-size: 40px;
+}
+
+#km {
+  display: none;
+}
+
+/* @media only screen and (max-width: 600px) {
+  .luas {
+    width: 50%;
+  }
+  #konten {
+    height: 200px;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .luas {
+    width: 80%;
+  }
+  #konten {
+    height: 200px;
+  }
+} */
